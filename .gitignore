@@ -1,0 +1,4 @@
+/venv/# created by virtualenv automatically
+.idea/
+venv/
+/__pycache__/
